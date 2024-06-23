@@ -1,4 +1,4 @@
-# Repositorio para o curso "Python para Ciência de Dados" da LinkedIn Learning  onde obtive uma base sólida no uso da linguagem Python especificamente voltada para a área de ciência de dados. A seguir, apresento um resumo dos principais tópicos e habilidades que o curso abrange:
+# Repositorio para o curso "Python para Ciência de Dados" da LinkedIn Learning  onde obtive uma base sólida no uso da linguagem Python especificamente voltada para a área de ciência de dados. A seguir, apresento um resumo das principais habilidades que obtive:
 
 ## Tópicos abordados nesse repositório:
 
